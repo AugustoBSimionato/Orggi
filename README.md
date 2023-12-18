@@ -39,4 +39,4 @@ Orggi currently supports the following languages:
 
 <br>
 
-Thank you for choosing Orggi! We hope it helps you manage your finances efficiently.
+The app doesn't have a date to launch in the App Store, but when it was available i'll change this text!
