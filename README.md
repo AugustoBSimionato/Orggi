@@ -1,12 +1,24 @@
 # Orggi
 
+<br>
+
 <p align="center">
-  <img src="https://github.com/AugustoBSimionato/Orggi/assets/72254418/48fb9522-9d1d-4f82-9a66-b672fbd4bec4" alt="Orggi Logo" width="200">
+  <img src="https://github.com/AugustoBSimionato/Orggi/assets/72254418/48fb9522-9d1d-4f82-9a66-b672fbd4bec4" alt="Orggi Logo" width="150">
 </p>
 
 <br>
 
-Orggi is an iOS application designed to help you effortlessly manage and track your expenses and income on your iPhone.
+<p align="center">
+  Orggi is an iOS application designed to help you effortlessly manage and track your expenses and income on your iPhone.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/AugustoBSimionato/Orggi/assets/72254418/3819d2b8-c50c-4f7d-84c3-64eda0a1dcb2" height="600">
+  <img src="https://github.com/AugustoBSimionato/Orggi/assets/72254418/9c8d4112-eab7-443a-b9d8-bff2a89d32ca" height="600">
+</p>
+
 <br>
 
 # Features
